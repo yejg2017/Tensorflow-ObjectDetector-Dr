@@ -1,0 +1,34 @@
+item{
+  id:1
+  name:'Optic-Disc'
+}
+
+item{
+  id:2
+  name:'Venules'
+}
+
+item{
+  id:3
+  name:'Hemorrhages'
+}
+
+item{
+  id:4
+  name:'Microaneurysms'
+}
+
+item{
+  id:5
+  name:'Exudates'
+}
+
+item{
+  id:6
+  name:'Arterioles'
+}
+
+item{
+  id:7
+  name:'others'
+}
